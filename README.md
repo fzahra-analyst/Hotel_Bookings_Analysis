@@ -53,7 +53,7 @@ Le tout en utilisant **Python**, **Pandas** et **Seaborn** pour analyser les don
 
 ### 3️⃣ Impact du type de dépôt sur l’annulation :
 
-![Deposit Type](visuals/deposit_type_cancellation.png)
+![Deposit Type](visuals/Cancellation rate by deposit type.png)
 
 ---
 
