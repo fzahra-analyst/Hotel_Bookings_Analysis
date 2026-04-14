@@ -45,7 +45,7 @@ Le tout en utilisant **Python**, **Pandas** et **Seaborn** pour analyser les don
 
 ### 1️⃣ Taux d’annulation selon le type d’hôtel :
 
-![Hotel Cancellation](visuals/cancellation_by_hotel.png)
+![Hotel Cancellation](visuals/Cancellation rate by hotel type.png)
 
 ### 2️⃣ Relation entre la durée de réservation et l’annulation :
 
